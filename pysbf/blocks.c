@@ -7758,6 +7758,7 @@ static int __Pyx_InitCachedConstants(void) {
   /* "pysbf/blocks.py":485
  * 
  * GALNav = (
+
  *  ('TOW', 'u4'),             # <<<<<<<<<<<<<<
  *  ('WNc', 'u2'),
  *  ('SVID', 'u1'),
@@ -8154,6 +8155,7 @@ static int __Pyx_InitCachedConstants(void) {
   /* "pysbf/blocks.py":485
  * 
  * GALNav = (
+
  *  ('TOW', 'u4'),             # <<<<<<<<<<<<<<
  *  ('WNc', 'u2'),
  *  ('SVID', 'u1'),
